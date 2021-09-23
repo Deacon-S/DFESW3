@@ -1,4 +1,4 @@
 # DFESW3
 completely necessary changes
 
-Completely necessaary remote changes for pull
+Completely necessary remote changes for pull
